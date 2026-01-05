@@ -165,5 +165,8 @@ out/
 # Sensible environment variables
 config.ini
 
+# Session token
+.token
+
 # Other
 .DS_Store
